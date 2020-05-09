@@ -11,7 +11,7 @@ tech:
 -merchant app
 (ref- zenoti - 20 M)
 -next haircut prediction tech
--VSPJ
+-VSPJ 
 
 
 colab:
